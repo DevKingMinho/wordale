@@ -1,0 +1,25 @@
+header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #d3d6da;
+}
+
+.main-left {
+  width: 25px;
+  height: 25px;
+  color: #d3d6da;
+}
+
+.main-center {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.main-right {
+  width: 25px;
+  height: 25px;
+  display: flex;
+  color: #d3d6da;
+}
